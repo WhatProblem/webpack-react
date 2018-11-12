@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "hotwind";
+    src: url('//at.alicdn.com/t/font_915319_3yur5jdbsso.eot?t=1542027817921');
+    /* IE9*/
+    src: url('//at.alicdn.com/t/font_915319_3yur5jdbsso.eot?t=1542027817921#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('data:application/x-font-woff;charset=utf-8;base64,d09GRgABAAAAAAToAAsAAAAAB3AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABHU1VCAAABCAAAADMAAABCsP6z7U9TLzIAAAE8AAAARAAAAFY8dkgXY21hcAAAAYAAAABUAAABhmTe0M1nbHlmAAAB1AAAARsAAAFkNGifTmhlYWQAAALwAAAALwAAADYTPnoXaGhlYQAAAyAAAAAcAAAAJAfeA4RobXR4AAADPAAAAAwAAAAMDAAAAGxvY2EAAANIAAAACAAAAAgAbACybWF4cAAAA1AAAAAfAAAAIAERAFRuYW1lAAADcAAAAU4AAAJh/J/eFHBvc3QAAATAAAAAJQAAADbeg1dfeJxjYGRgYOBikGPQYWB0cfMJYeBgYGGAAJAMY05meiJQDMoDyrGAaQ4gZoOIAgCKIwNPAHicY2BkYWCcwMDKwMHUyXSGgYGhH0IzvmYwYuRgYGBiYGVmwAoC0lxTGByeMTxTZW7438AQw9zA0AAUZgTJAQDf5AwIeJztkMENgDAMA89t6QOxRiUeDMSL8VmjuClsgaWLE6f9BFiAbA5TQBdi6HSqyDNr5CXeVLtIN3frHT635F21p/FPlV9b1P2d0rjWJPo2QQ/ZFA3aeJwlj7FOwzAQhu/sJAwgS7HSZCmVUtSiCsQQiisGEBtlZkBicmFi7YBQujiVWHgCGKpk7lM0G29BX6QpF9vDf//5vrN+gwew3/CK38ERdOEc7gEG/eENjlUWH2MU+OkFnoa3OEl7mIQCsR90wii+TDN1FY6HZ9jChAg86ERB2xBLKDUMhJRdKTHbmZFCVCPm6u6JBoKZVrWQ3vv0Yc6J9L5f9MqXxt5a2dASarfcVFT/pGiqdogWWT6+MXx9Xlr/8Ynsa04e6HD6l+G/fAqHkMAAoA3poglrXOYevQyTGJIT1zPIK8aq3KkuOC+01ebHR6xrRP/a267XWw8FLxd5yXmZL0rFzUwXjBV6ZhrVUn6zr4kiFv4BIjlJVAB4nGNgZGBgAGLPwBc88fw2Xxm4WRhA4Ab/bE0E/b+BhYHZA8jlYGACiQIA9xQIbQB4nGNgZGBgbvjfwBDDwgACQJKRARUwAwBHCQJsBAAAAAQAAAAEAAAAAAAAAABsALJ4nGNgZGBgYGbwYGBhAAEmIOYCQgaG/2A+AwAP/wFmAHicXZE9TsNAEIWfyZ9wJAoQVBQrIVEEyfkpI7pISZ8iHUXirBNH9q613iRKyXk4ASfgBLQ0nIKOF2coiK0df/Pm7ezYBnCNLwQ4XbdcJw7QYnbiC/K9cI38IFwnd4QbaKMv3KT+LBziCSPhNm5g2CGoXzLr4FU4wBXehC/I78I18odwnfwp3MAdvoWb1H+EQ8yClnAbj8FLOHJ67vVSLQ4qja1JrPHh2vp9apZTvdpmcyeZPGbalak1qh/1RJloo91fj3K3GnifqMTZXI3ZTGeZVYWzGx37aO19Mex2E9Gj2OYcaQQHjTk84xIKCxwYU8Sw/BhJFT19a5LHnhVD35TuFbbIuNOd1f5nMzodSmbHToo/IULvzDOhx1S+8zlK7HjOgKrnLIrLcWdOGstkmjNkZIWiqm2oxNQjnnHcVWCILu/kzB9Vb5j/AvzUbEkAAHicY2BigAAuBuyAmZGJkZmRhYG5uDSfrTI/Lz2jlIEBACDxBBYAAAA=') format('woff'), url('//at.alicdn.com/t/font_915319_3yur5jdbsso.ttf?t=1542027817921') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+    url('//at.alicdn.com/t/font_915319_3yur5jdbsso.svg?t=1542027817921#hotwind') format('svg');
+    /* iOS 4.1- */
+}
+
+.hotwind {
+    font-family: "hotwind" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-suo:before {
+    content: "\e625";
+}
+
+.icon-yonghu:before {
+    content: "\e600";
+}

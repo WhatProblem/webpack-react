@@ -1,9 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import './main.css';
+import './myIcon.css';
+import './style.scss';
+import Router from './app/router/Router';
 
-ReactDOM.render(
-  <h1>Hello world!!!!!!!!!</h1>,
-  document.getElementById('root')
-);
+
+ReactDOM.render( <
+    Router / > ,
+    document.getElementById('root')
+)
+
+// http://blog.gdfengshuo.com/example/work/#/drag
