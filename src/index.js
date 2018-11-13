@@ -3,11 +3,11 @@ import ReactDOM from 'react-dom';
 
 import './myIcon.css';
 import './style.scss';
-import Router from './app/router/Router';
+import AppRouter from './app/router/Router';
 
 
-ReactDOM.render( <
-    Router / > ,
+ReactDOM.render(
+    <AppRouter />,
     document.getElementById('root')
 )
 

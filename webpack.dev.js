@@ -5,7 +5,12 @@ module.exports = merge(common, {
   mode: 'development',
   devtool: 'inline-source-map',
   devServer: {
+    host: 'localhost',
     contentBase: './dist',
-    port: 3000
+    publicPath: '/',
+    port: 3000,
+    open: true,
+    hot: true,
+    // hotOnly: true
   }
 });
